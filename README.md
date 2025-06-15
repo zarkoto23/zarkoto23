@@ -26,7 +26,7 @@ JavaScript (ES6+), HTML5, CSS3, Git, Node.js (basics)
 - Testing: unit (`Mocha`, `Chai`) and end-to-end (`Playwright`)
 
 **Tools & Workflow**  
-VSCode, npm, Postman, GitHub Desktop, Chrome DevTools<br><br><br>
+VSCode, npm, Postman, GitHub Desktop, Chrome DevTools<br><br>
 
 ---
 
