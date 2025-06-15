@@ -2,7 +2,7 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
 
-<img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" />
 
 
 
