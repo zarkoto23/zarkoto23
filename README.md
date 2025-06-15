@@ -92,7 +92,7 @@ I'm actively expanding my ***fullstack skillset***. Here's an overview of what *
 
 Feel free to reach out if you want to connect or collaborate:
 
-- 📧 svetozarstoev223@gmail.com 
+- 📧 zarkoto23@gmail.com 
 
 ---
 
