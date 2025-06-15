@@ -4,18 +4,15 @@
 While my primary focus is frontend, I'm also diving into backend fundamentals with <strong style="color:#111;">Node.js</strong> to become a fullstack JavaScript developer.<br><br>
 
 <p align="center">
-
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg){:width="60" height="60"}&nbsp;&nbsp;&nbsp;&nbsp;
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg){:width="60" height="60"}&nbsp;&nbsp;&nbsp;&nbsp;
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg){:width="60" height="60"}&nbsp;&nbsp;&nbsp;&nbsp;
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg){:width="60" height="60"}&nbsp;&nbsp;&nbsp;&nbsp;
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg){:width="60" height="60"}&nbsp;&nbsp;&nbsp;&nbsp;
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg){:width="60" height="60"}&nbsp;&nbsp;&nbsp;&nbsp;
-![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg){:width="60" height="60"}&nbsp;&nbsp;&nbsp;&nbsp;
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white){:width="60" height="60"}
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" style="pointer-events:none; cursor: default;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" style="pointer-events:none; cursor: default;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" style="pointer-events:none; cursor: default;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" style="pointer-events:none; cursor: default;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" style="pointer-events:none; cursor: default;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub" style="pointer-events:none; cursor: default;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VSCode" style="pointer-events:none; cursor: default;" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" width="180" height="60" alt="npm" style="pointer-events:none; cursor: default;" />
 </p>
-
 
 ---
 
