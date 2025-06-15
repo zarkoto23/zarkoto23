@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+
+
 <!--
 **zarkoto23/zarkoto23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
