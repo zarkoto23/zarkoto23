@@ -22,7 +22,7 @@ While my primary focus is frontend, I'm also diving into backend fundamentals wi
 JavaScript (ES6+), HTML5, CSS3, Git, Node.js (basics)
 
 **Key Concepts & Practices**  
-- Functional and modular programming (ES modules, reusable code structure)  
+- ***Functional*** and modular programming (ES modules, reusable code structure)  
 - DOM manipulation, event-driven architecture  
 - Rendering dynamic content through template engines like lit-html  
 - SPA architecture and client-side routing with Page.js  
