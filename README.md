@@ -1,7 +1,11 @@
 # 👋 Hello, I'm Svetozar — JavaScript Fullstack Developer in Training
-<p style="padding-left: 5em; line-height: 1.5; color: #222;">
+
+> I'm currently building a solid foundation in modern JavaScript development, focused on creating responsive, interactive, and well-structured Single Page Applications (SPAs).  
+> While my primary focus is frontend, I'm also diving into backend fundamentals with Node.js to become a fullstack JavaScript developer.
+
+
   I'm currently building a solid foundation in <strong style="color:#111;">modern JavaScript development</strong>, focused on creating responsive, interactive, and well-structured Single Page Applications (SPAs).  
-  While my primary focus is frontend, I'm also diving into backend fundamentals with <strong style="color:#111;">Node.js</strong> to become a fullstack JavaScript developer.</p><br><br>
+  While my primary focus is frontend, I'm also diving into backend fundamentals with <strong style="color:#111;">Node.js</strong> to become a fullstack JavaScript developer.<br><br>
 
   
 <p align="center">
