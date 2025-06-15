@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,git,github" />
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
+
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" />
 
 
 
