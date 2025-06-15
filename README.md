@@ -1,6 +1,29 @@
 # 👋 Hello, I'm Svetozar — JavaScript Fullstack Developer in Training
 I'm currently building a solid foundation in modern JavaScript development, focused on creating responsive, interactive, and well-structured Single Page Applications (SPAs).  
-While my primary focus is frontend, I'm also diving into backend fundamentals with Node.js to become a fullstack JavaScript developer.<br><br><br>
+While my primary focus is frontend, I'm also diving into backend fundamentals with Node.js to become a fullstack JavaScript developer.<br>
+<p align="center">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" width="50" height="50" alt="Postman"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" width="50" height="50" alt="npm"/>
+
+  <!-- Testing & Libraries -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" width="50" height="50" alt="Mocha"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chai.svg" width="50" height="50" alt="Chai"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="50" height="50" alt="Playwright"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/page.svg" width="50" height="50" alt="Page.js"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/lit.svg" width="50" height="50" alt="lit-html"/>
+</p>
+
+<br><br>
 
 
 
