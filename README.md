@@ -10,7 +10,7 @@ While my primary focus is frontend, I'm also diving into backend fundamentals wi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VSCode"/>&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" width="120" height="60" alt="npm"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" width="150" height="60" alt="npm"/>&nbsp;&nbsp;
 
 
 
