@@ -1,13 +1,7 @@
 ## Hi there 👋
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-     width="40" height="40" 
-     alt="JavaScript" 
-     style="border-radius: 8px; background-color: #f0db4f; padding: 5px;" />
+<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,git,github" />
 
-
-
-          
 
 
 <!--
