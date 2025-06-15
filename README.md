@@ -22,16 +22,16 @@ While my primary focus is frontend, I'm also diving into backend fundamentals wi
 JavaScript (ES6+), HTML5, CSS3, Git, Node.js (basics)
 
 **Key Concepts & Practices**  
-- ***Functional*** and modular programming (ES modules, reusable code structure)  
-- DOM manipulation, event-driven architecture  
-- Rendering dynamic content through template engines like lit-html  
-- SPA architecture and client-side routing with Page.js  
-- Asynchronous JavaScript: Promises, fetch, async/await  
-- RESTful APIs and full CRUD workflows  
+- ***Functional*** and ***modular*** programming (ES modules, ***reusable code structure***)  
+- ***DOM*** manipulation, ***event-driven architecture***  
+- ***Rendering*** dynamic content through template engines like ***lit-html***  
+- ***SPA architecture*** and client-side ***routing*** with Page.js  
+- ***Asynchronou***s JavaScript: Promises, fetch, async/await  
+- ***RESTful*** APIs and full ***CRUD*** workflows  
 - Form validation, state management, local/session storage  
 - Error handling and debugging strategies  
 - Clean architecture and separation of logic from presentation  
-- Testing: unit (Mocha, Chai) and end-to-end (Playwright)
+- ***Testing:*** unit (Mocha, Chai) and end-to-end (Playwright)
 
 **Tools & Workflow**  
 VSCode, npm, Postman, GitHub Desktop, Chrome DevTools<br><br>
@@ -43,14 +43,13 @@ VSCode, npm, Postman, GitHub Desktop, Chrome DevTools<br><br>
 My repositories showcase both educational and personal projects built around SPA principles and modular architecture.  
 They demonstrate:
 
-- User authentication systems (register, login, logout)  
-- Full CRUD operations with RESTful APIs  
-- Dynamic rendering using templating libraries  
-- Modular structure with separation of logic, views, and services  
-- SPA routing with Page.js for seamless navigation  
-- Responsive, mobile-first design  
-- Project-based use of real testing tools: Mocha, Chai, Playwright  
-- Emphasis on clean code, reusable components, and scalable structure  
+- ***User authentication systems*** (register, login, logout)  
+- ***Full CRUD operations with RESTful APIs***
+- ***Dynamic rendering*** using templating libraries  
+- ***Modular structure with separation of logic***, views, and services  
+- ***SPA routing*** with Page.js for seamless navigation  
+- Project-based use of real ***testing tools:*** Mocha, Chai, Playwright  
+- Emphasis on ***clean code***, reusable components, and scalable structure  
 
 Each repository includes a clear README file with:
 
@@ -63,7 +62,7 @@ Each repository includes a clear README file with:
 
 ## 📚 Learning Journey
 
-I'm actively expanding my fullstack skillset. Here's an overview of what I've learned so far and what's next:
+I'm actively expanding my ***fullstack skillset***. Here's an overview of what ***I've learned so far and what's next:***
 
 ### ✅ Technologies & Tools Covered
 - JavaScript (ES6+)
