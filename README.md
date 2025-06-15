@@ -49,7 +49,7 @@ Each repository includes a clear README file with:
 - 📝 Project description and goals  
 - 🛠️ Technologies used  
 - 🔧 Setup instructions  
-- 📷 Screenshots or demo links (if applicable)<br><br><br>
+- 📷 Screenshots or demo links (if applicable)<br><br>
 
 ---
 
@@ -78,7 +78,7 @@ I'm actively expanding my fullstack skillset. Here's an overview of what I've le
 - Node.js (advanced concepts)  
 - Express.js  
 - MongoDB  
-- PostgreSQL  
+- PostgreSQL  <br><br>
 
 
 ---
