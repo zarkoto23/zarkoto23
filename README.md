@@ -3,7 +3,6 @@
 &nbsp; &nbsp; &nbsp;  I'm currently building a solid foundation in <strong style="color:#111;">modern JavaScript development</strong>, focused on creating responsive, interactive, and well-structured Single Page Applications (SPAs).  
 While my primary focus is frontend, I'm also diving into backend fundamentals with <strong style="color:#111;">Node.js</strong> to become a fullstack JavaScript developer.<br><br>
 
-  
 <p align="center">
 
 ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg){:width="60" height="60"}&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,6 +15,7 @@ While my primary focus is frontend, I'm also diving into backend fundamentals wi
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white){:width="60" height="60"}
 
 </p>
+
 
 ---
 
