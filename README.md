@@ -1,9 +1,13 @@
-# 👋 Hello, I'm [Your Name] — JavaScript Fullstack (Frontend-Focused) Developer in Training
+# 👋 Hello, I'm Svetozar — JavaScript Fullstack Developer in Training
 
 I'm currently building a solid foundation in modern JavaScript development, focused on creating responsive, interactive, and well-structured Single Page Applications (SPAs).  
 While my primary focus is frontend, I'm also diving into backend fundamentals with Node.js to become a fullstack JavaScript developer.
 
+
+
 ---
+
+
 
 ## 💻 Tech Stack & Experience
 
