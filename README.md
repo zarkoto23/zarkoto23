@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Svetozar — JavaScript Fullstack Developer in Training
 
 I'm currently building a solid foundation in modern JavaScript development, focused on creating responsive, interactive, and well-structured Single Page Applications (SPAs).  
-While my primary focus is frontend, I'm also diving into backend fundamentals with Node.js to become a fullstack JavaScript developer.
+While my primary focus is frontend, I'm also diving into backend fundamentals with Node.js to become a fullstack JavaScript developer.<br><br><br>
 
 
 
@@ -27,7 +27,7 @@ JavaScript (ES6+), HTML5, CSS3, Git, Node.js (basics)
 - Testing: unit (`Mocha`, `Chai`) and end-to-end (`Playwright`)
 
 **Tools & Workflow**  
-VSCode, npm, Postman, GitHub Desktop, Chrome DevTools
+VSCode, npm, Postman, GitHub Desktop, Chrome DevTools<br><br><br>
 
 ---
 
@@ -50,7 +50,7 @@ Each repository includes a clear README file with:
 - 📝 Project description and goals  
 - 🛠️ Technologies used  
 - 🔧 Setup instructions  
-- 📷 Screenshots or demo links (if applicable)
+- 📷 Screenshots or demo links (if applicable)<br><br><br>
 
 ---
 
@@ -70,7 +70,7 @@ I'm actively expanding my fullstack skillset. Here's an overview of what I've le
 - Templating with `lit-html`
 - Unit testing (`Mocha`, `Chai`)
 - End-to-end testing (`Playwright`)
-- Responsive design principles
+- Responsive design principles<br><br>
 
 ### 🧠 Currently Learning / Coming Next
 - React.js  
@@ -80,8 +80,7 @@ I'm actively expanding my fullstack skillset. Here's an overview of what I've le
 - Express.js  
 - MongoDB  
 - PostgreSQL  
-- Authentication & authorization (JWT, sessions)  
-- CI/CD & test coverage strategies  
+
 
 ---
 
@@ -89,11 +88,8 @@ I'm actively expanding my fullstack skillset. Here's an overview of what I've le
 
 Feel free to reach out if you want to connect or collaborate:
 
-- 📧 [Your Email]  
-- 💼 [LinkedIn]  
-- 🌐 [Portfolio or personal site]
+- 📧 svetozarstoev223@gmail.com 
 
 ---
 
 Thanks for checking out my profile!  
-Let’s build great things together. 🚀
