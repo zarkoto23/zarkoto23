@@ -75,15 +75,6 @@ I'm actively expanding my ***fullstack skillset***. Here's an overview of what *
 - Unit testing (Mocha, Chai)
 - End-to-end testing (Playwright)
 - Responsive design principles<br><br>
-
-### 🧠 Currently Learning / Coming Next
-- React.js  
-- Angular  
-- TypeScript  
-- Node.js (advanced concepts)  
-- Express.js  
-- MongoDB  
-- PostgreSQL  <br><br>
 ---
 
 ## 📬 Let's Connect
@@ -94,4 +85,3 @@ Feel free to reach out if you want to connect or collaborate:
 
 ---
 
-Thanks for checking out my profile!  
